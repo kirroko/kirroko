@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on android application and Mobile Game
+- 🔭 I’m currently working on Game Engines and PC Games.
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: Linkedin https://www.linkedin.com/in/kwjy/ or Email
